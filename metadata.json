@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Dev Sandbox",
+  "description": "An advanced, high-fidelity native Gemini developer tool with custom system instructions, environment context mapping, and direct local actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
